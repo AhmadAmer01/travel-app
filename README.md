@@ -11,3 +11,5 @@ A web application that provides weather forecasts and relevant images for a chos
 
 ## Project Structure
 Root ├── package.json ├── webpack.config.js ├── .env ├── src │ ├── client │ │ ├── index.js │ │ ├── js │ │ │ └── handleSubmit.js │ │ ├── styles │ │ │ └── style.scss │ │ └── views │ │ └── index.html │ └── server │ └── server.js
+## Prerequisites
+- Node.js (v20.x)
